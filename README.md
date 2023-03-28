@@ -351,4 +351,4 @@ globalMixin | `boolean` | Setting this to `true` will add a mixin with the `msal
 
 [MIT License](./LICENSE)
 
-Copyright (c) Marios Vertopoulos
+Copyright for portions of this project are held by Marios Vertopoulos (2020). All other copyright for project vue-msal are held by the owner of this fork.
